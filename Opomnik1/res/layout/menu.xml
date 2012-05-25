@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/dodaj"
+         android:title="Dodaj termin" />
+    
+    <item android:id="@+id/brisi"
+        android:title="Briši termin" />
+    
+     <item android:id="@+id/uredi"
+        android:title="Uredi termin" />
+     
+     <item android:id="@+id/seznam"
+        android:title="Seznam terminov" />
+     
+      <item android:id="@+id/nastavitve"
+        android:title="Nastavitve" />
+</menu>
