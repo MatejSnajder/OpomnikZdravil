@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+	android:id="@+id/widget2"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+<TextView
+	android:id="@+id/widget58"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="1dp"
+	android:layout_y="3dp"
+	android:textColor="#31B2E7" />
+<TextView
+	android:id="@+id/widget59"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	android:layout_x="1dp"
+	android:layout_y="20dp" />
+<TextView
+	android:id="@+id/widget60"
+	android:layout_width="wrap_content"
+	android:layout_height="wrap_content"
+	
+	android:layout_x="1dp"
+	android:layout_y="37dp" />
+
+<TextView
+    android:id="@+id/textView1"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_x="144dp"
+    android:layout_y="5dp" />
+
+</AbsoluteLayout>
