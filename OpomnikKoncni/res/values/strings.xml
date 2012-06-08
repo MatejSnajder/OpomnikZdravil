@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, OpomnikJemanjaZdravil4Activity!</string>
+    <string name="app_name">Opomnik Jemanja Zdravil</string>
+    <string name="imezdravila">Napišite ime zdravila:</string>
+    <string name="zacetekjemanjazdravila">Izberite datum pričetka jemanja zdravila:</string>
+    <string name="konecjemanjazdravila">Izberite datum konca jemanja zravila:</string>
+    <string name="urajemanja">Izberite uro jemanja zdravila:</string>
+    <string name="nakolikodni">Na koliko dni želite jemati zdravilo:</string>
+    <string name="kolicinazdravila">Količina zdravila, ki jo želite jemati:</string>
+    <string name="opombe">Opombe:</string>
+    <string name="dogodek">Zdravila, ki jih je potrebno danes vzeti</string>
+    <string name="datumjemanja">Datum jemanja zdravila:</string>
+    <string name="vzemitezdravilo">Prosim vzemite naslednje zdravilo:</string>
+
+</resources>
